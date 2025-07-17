@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Tenis Deportivo A",
+      "precio": 59.99,
+      "descripcion": "Tenis cómodos y ligeros, ideales para correr.",
+      "imagen": "images/tenis_a.jpg"
+    },
+    {
+      "nombre": "Tenis Deportivo B",
+      "precio": 79.99,
+      "descripcion": "Tenis con soporte adicional para el arco del pie.",
+      "imagen": "images/tenis_b.jpg"
+    },
+    {
+      "nombre": "Tenis Deportivo C",
+      "precio": 89.99,
+      "descripcion": "Tenis de alto rendimiento para atletas.",
+      "imagen": "images/tenis_c.jpg"
+    },
+    {
+      "nombre": "Tenis Deportivo D",
+      "precio": 69.99,
+      "descripcion": "Tenis versátiles para entrenamiento y uso diario.",
+      "imagen": "images/tenis_d.jpg"
+    },
+    {
+      "nombre": "Tenis Deportivo E",
+      "precio": 99.99,
+      "descripcion": "Tenis con tecnología de amortiguación avanzada.",
+      "imagen": "images/tenis_e.jpg"
+    }
+  ]
+}
